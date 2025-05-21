@@ -174,7 +174,7 @@ h1 {
 }
 
 .conteudo ul li:hover {
-    transform: translateX(10px);
+    transform: translateX(100px);
     color: var(--verde);
 }
 
